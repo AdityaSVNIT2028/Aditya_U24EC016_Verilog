@@ -1,2 +1,3 @@
 https://www.edaplayground.com/x/Yty8    ,// Xor by behavoural
 https://www.edaplayground.com/x/E6sV    ,// xor using nand structural
+https://www.edaplayground.com/x/6sRi     ,// 2 bit comparator assuming if a == b then y is 1
