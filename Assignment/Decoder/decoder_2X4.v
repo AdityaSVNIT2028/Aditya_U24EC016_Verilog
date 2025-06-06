@@ -1,4 +1,5 @@
 // Code your design here
+// it is 2X4 instead of 2X1
 module decoder_2X1(input [1:0]A, input En, output reg [3:0]I);
   
 
