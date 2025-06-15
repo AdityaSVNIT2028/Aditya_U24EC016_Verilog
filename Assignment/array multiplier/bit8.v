@@ -8,12 +8,12 @@ module arr_mul_8(
     output [15:0] Y
 );
 
-    // Partial products P[i][j] = A[j] & B[i]
+    
     wire [7:0] P[7:0];
   wire  [6:0] S[0:7];
   wire [6:0]C[0:7];
   
-  // for P value
+  
     genvar i,j;
     generate
       for (i=0; i<8; i=i+1) begin 
