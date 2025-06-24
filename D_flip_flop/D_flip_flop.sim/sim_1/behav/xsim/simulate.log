@@ -1,0 +1,8 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+ Time = 0| clk = 0, rst = 1, D = 1, Q = 0
+ Time = 5000| clk = 1, rst = 1, D = 0, Q = 0
+ Time = 8000| clk = 1, rst = 0, D = 1, Q = 0
+ Time = 10000| clk = 0, rst = 0, D = 1, Q = 0
+ Time = 15000| clk = 1, rst = 0, D = 1, Q = 1
+$finish called at time : 20 ns : File "F:/Sillycon/Code/RTL/D_flip_flop/tb_ff.v" Line 28

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jun 22 10:36:24 2025
+# Process ID: 226072
+# Current directory: F:/Sillycon/Code/RTL/master slave  ff/master slave  ff.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Sillycon/Code/RTL/master slave ff/master slave ff.sim/sim_1/behav/xsim/xsim.dir/destgn_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Sillycon/Code/RTL/master slave  ff/master slave  ff.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Sillycon/Code/RTL/master slave  ff/master slave  ff.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Sillycon/Code/RTL/master -notrace
+couldn't read file "F:/Sillycon/Code/RTL/master": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Sun Jun 22 10:36:25 2025...

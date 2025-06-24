@@ -1,0 +1,43 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time=10000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=15000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=20000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=25000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=30000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=35000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=40000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=45000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=50000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=55000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=60000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=65000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=70000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=75000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=80000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=85000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=90000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=95000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=100000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=105000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=110000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=115000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=120000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=125000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=130000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=135000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=140000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=145000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=150000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=155000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=160000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=165000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=170000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=175000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=180000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=185000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=190000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=195000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+Time=200000 ns, clk=0, rst=0, Q=xxx, Qbar=xxx
+Time=205000 ns, clk=1, rst=0, Q=xxx, Qbar=xxx
+$finish called at time : 210 ns : File "F:/Sillycon/Code/RTL/asynchronous 3 bit up counter using struc. modelling/asyn_tb.v" Line 28

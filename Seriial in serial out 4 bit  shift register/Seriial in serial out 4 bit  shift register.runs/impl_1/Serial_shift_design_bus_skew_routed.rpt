@@ -1,0 +1,15 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
+| Date         : Tue Jun 24 11:56:30 2025
+| Host         : LAPTOP-EI88UINF running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file Serial_shift_design_bus_skew_routed.rpt -pb Serial_shift_design_bus_skew_routed.pb -rpx Serial_shift_design_bus_skew_routed.rpx
+| Design       : Serial_shift_design
+| Device       : 7k70t-fbv676
+| Speed File   : -1  PRODUCTION 1.12 2017-02-17
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

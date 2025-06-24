@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/T flip flop/t_ff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module t_ff
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/T flip flop/tb_t_ff.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module t_ff_tb

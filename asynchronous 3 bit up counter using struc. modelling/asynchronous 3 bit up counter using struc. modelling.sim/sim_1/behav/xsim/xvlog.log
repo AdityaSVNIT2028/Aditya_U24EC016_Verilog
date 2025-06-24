@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/asynchronous 3 bit up counter using struc. modelling/design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module asyn_cunt
+INFO: [VRFC 10-311] analyzing module T_ff_str
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/asynchronous 3 bit up counter using struc. modelling/asyn_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module asyn_tb

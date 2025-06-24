@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/johnson_3bit.v/johnson.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module johnson
+INFO: [VRFC 10-311] analyzing module D_ff
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/johnson_3bit.v/tb_johnson.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_johnson

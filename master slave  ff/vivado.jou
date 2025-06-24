@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Jun 23 22:16:31 2025
+# Process ID: 305912
+# Current directory: F:/Sillycon/Code/RTL/master slave  ff
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent313680 F:\Sillycon\Code\RTL\master slave  ff\master slave  ff.xpr
+# Log file: F:/Sillycon/Code/RTL/master slave  ff/vivado.log
+# Journal file: F:/Sillycon/Code/RTL/master slave  ff\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {F:/Sillycon/Code/RTL/master slave  ff/master slave  ff.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source destgn_tb.tcl
+synth_design -rtl -name rtl_1
+close_sim

@@ -1,0 +1,37 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time = 0 | clk = 0 | rst = 1 | Q = 100
+Time = 5000 | clk = 1 | rst = 1 | Q = 100
+Time = 10000 | clk = 0 | rst = 0 | Q = 010
+Time = 15000 | clk = 1 | rst = 0 | Q = 010
+Time = 20000 | clk = 0 | rst = 0 | Q = 001
+Time = 25000 | clk = 1 | rst = 0 | Q = 001
+Time = 30000 | clk = 0 | rst = 0 | Q = 100
+Time = 35000 | clk = 1 | rst = 0 | Q = 100
+Time = 40000 | clk = 0 | rst = 0 | Q = 010
+Time = 45000 | clk = 1 | rst = 0 | Q = 010
+Time = 50000 | clk = 0 | rst = 0 | Q = 001
+Time = 55000 | clk = 1 | rst = 0 | Q = 001
+Time = 60000 | clk = 0 | rst = 0 | Q = 100
+Time = 65000 | clk = 1 | rst = 0 | Q = 100
+Time = 70000 | clk = 0 | rst = 0 | Q = 010
+Time = 75000 | clk = 1 | rst = 0 | Q = 010
+Time = 80000 | clk = 0 | rst = 0 | Q = 001
+Time = 85000 | clk = 1 | rst = 0 | Q = 001
+Time = 90000 | clk = 0 | rst = 0 | Q = 100
+Time = 95000 | clk = 1 | rst = 0 | Q = 100
+Time = 100000 | clk = 0 | rst = 0 | Q = 010
+Time = 105000 | clk = 1 | rst = 0 | Q = 010
+Time = 110000 | clk = 0 | rst = 1 | Q = 100
+Time = 115000 | clk = 1 | rst = 1 | Q = 100
+Time = 120000 | clk = 0 | rst = 0 | Q = 010
+Time = 125000 | clk = 1 | rst = 0 | Q = 010
+Time = 130000 | clk = 0 | rst = 0 | Q = 001
+Time = 135000 | clk = 1 | rst = 0 | Q = 001
+Time = 140000 | clk = 0 | rst = 0 | Q = 100
+Time = 145000 | clk = 1 | rst = 0 | Q = 100
+Time = 150000 | clk = 0 | rst = 0 | Q = 010
+Time = 155000 | clk = 1 | rst = 0 | Q = 010
+Time = 160000 | clk = 0 | rst = 0 | Q = 001
+Time = 165000 | clk = 1 | rst = 0 | Q = 001
+$finish called at time : 170 ns : File "F:/Sillycon/Code/RTL/ring counter/ring_tb.v" Line 47

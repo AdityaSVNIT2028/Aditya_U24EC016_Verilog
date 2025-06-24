@@ -1,0 +1,45 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time = 0 | i_clk = 0, i_rst = 1 => o_q = 000
+Time = 5000 | i_clk = 1, i_rst = 1 => o_q = 000
+Time = 10000 | i_clk = 0, i_rst = 0 => o_q = 100
+Time = 15000 | i_clk = 1, i_rst = 0 => o_q = 100
+Time = 20000 | i_clk = 0, i_rst = 0 => o_q = 110
+Time = 25000 | i_clk = 1, i_rst = 0 => o_q = 110
+Time = 30000 | i_clk = 0, i_rst = 0 => o_q = 111
+Time = 35000 | i_clk = 1, i_rst = 0 => o_q = 111
+Time = 40000 | i_clk = 0, i_rst = 0 => o_q = 011
+Time = 45000 | i_clk = 1, i_rst = 0 => o_q = 011
+Time = 50000 | i_clk = 0, i_rst = 0 => o_q = 001
+Time = 55000 | i_clk = 1, i_rst = 0 => o_q = 001
+Time = 60000 | i_clk = 0, i_rst = 0 => o_q = 000
+Time = 65000 | i_clk = 1, i_rst = 0 => o_q = 000
+Time = 70000 | i_clk = 0, i_rst = 0 => o_q = 100
+Time = 75000 | i_clk = 1, i_rst = 0 => o_q = 100
+Time = 80000 | i_clk = 0, i_rst = 0 => o_q = 110
+Time = 85000 | i_clk = 1, i_rst = 0 => o_q = 110
+Time = 90000 | i_clk = 0, i_rst = 0 => o_q = 111
+Time = 95000 | i_clk = 1, i_rst = 0 => o_q = 111
+Time = 100000 | i_clk = 0, i_rst = 0 => o_q = 011
+Time = 105000 | i_clk = 1, i_rst = 0 => o_q = 011
+Time = 110000 | i_clk = 0, i_rst = 0 => o_q = 001
+Time = 115000 | i_clk = 1, i_rst = 0 => o_q = 001
+Time = 120000 | i_clk = 0, i_rst = 0 => o_q = 000
+Time = 125000 | i_clk = 1, i_rst = 0 => o_q = 000
+Time = 130000 | i_clk = 0, i_rst = 0 => o_q = 100
+Time = 135000 | i_clk = 1, i_rst = 0 => o_q = 100
+Time = 140000 | i_clk = 0, i_rst = 0 => o_q = 110
+Time = 145000 | i_clk = 1, i_rst = 0 => o_q = 110
+Time = 150000 | i_clk = 0, i_rst = 0 => o_q = 111
+Time = 155000 | i_clk = 1, i_rst = 0 => o_q = 111
+Time = 160000 | i_clk = 0, i_rst = 0 => o_q = 011
+Time = 165000 | i_clk = 1, i_rst = 0 => o_q = 011
+Time = 170000 | i_clk = 0, i_rst = 0 => o_q = 001
+Time = 175000 | i_clk = 1, i_rst = 0 => o_q = 001
+Time = 180000 | i_clk = 0, i_rst = 0 => o_q = 000
+Time = 185000 | i_clk = 1, i_rst = 0 => o_q = 000
+Time = 190000 | i_clk = 0, i_rst = 0 => o_q = 100
+Time = 195000 | i_clk = 1, i_rst = 0 => o_q = 100
+Time = 200000 | i_clk = 0, i_rst = 0 => o_q = 110
+Time = 205000 | i_clk = 1, i_rst = 0 => o_q = 110
+$finish called at time : 210 ns : File "F:/Sillycon/Code/RTL/johnson_3bit.v/tb_johnson.v" Line 30
