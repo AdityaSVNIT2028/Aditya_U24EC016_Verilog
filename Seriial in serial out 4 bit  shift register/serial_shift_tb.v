@@ -7,9 +7,9 @@
 
 module serial_shift_tb();
 reg i_d, i_clk, i_rst;
-wire o_q;
+wire[3:0] o_q;
 
-Serial_shift_design uut(
+serial_in_design uut(
 .i_d(i_d),
 .i_clk(i_clk), 
 .i_rst(i_rst), 
