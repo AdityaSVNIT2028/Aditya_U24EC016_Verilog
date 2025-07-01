@@ -1,8 +1,0 @@
-0.6
-2019.1
-May 24 2019
-15:06:07
-F:/Sillycon/Code/RTL/D_flip_flop/Design.v,1750743929,verilog,,F:/Sillycon/Code/RTL/Shift register/serial in parallel out/serail_in_design.v,,d_ff,,,,,,,,
-F:/Sillycon/Code/RTL/Seriial in serial out 4 bit  shift register/serial_shift_tb.v,1750749077,verilog,,,,serial_shift_tb,,,,,,,,
-F:/Sillycon/Code/RTL/Shift register/serial in parallel out/serail_in_design.v,1750749077,verilog,,F:/Sillycon/Code/RTL/Seriial in serial out 4 bit  shift register/serial_shift_tb.v,,serial_in_design,,,,,,,,
-F:/Sillycon/Code/RTL/Shift register/serial in parallel out/serial in parallel out.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,

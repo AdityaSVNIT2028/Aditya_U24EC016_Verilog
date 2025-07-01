@@ -1,8 +1,0 @@
-0.6
-2019.1
-May 24 2019
-15:06:07
-F:/Sillycon/Code/RTL/Shift register/barallel shifter/barallel shifter.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
-F:/Sillycon/Code/RTL/Shift register/barallel shifter/barallel_shift_right_tb.v,1751021464,verilog,,,,barallel_shift_right_tb,,,,,,,,
-F:/Sillycon/Code/RTL/Shift register/barallel shifter/barrel_shift_right_32.v,1751020201,verilog,,F:/Sillycon/Code/RTL/Shift register/barallel shifter/mux_2X1.v,,barrel_shift_right_32,,,,,,,,
-F:/Sillycon/Code/RTL/Shift register/barallel shifter/mux_2X1.v,1751017046,verilog,,F:/Sillycon/Code/RTL/Shift register/barallel shifter/barallel_shift_right_tb.v,,mux_2X1,,,,,,,,

@@ -1,8 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/D_flip_flop/Design.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module d_ff
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/mux/mux_4X1.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module mux_4X1
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Shift register/universal shift register/universal_design.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module universal_design
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Shift register/universal shift register/universal_shift_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module universal_shift_tb

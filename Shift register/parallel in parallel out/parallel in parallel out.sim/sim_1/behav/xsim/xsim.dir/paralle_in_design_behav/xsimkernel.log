@@ -1,7 +1,0 @@
-Running: xsim.dir/paralle_in_design_behav/xsimk.exe -simmode gui -wdb paralle_in_design_behav.wdb -simrunnum 0 -socket 58255
-Design successfully loaded
-Design Loading Memory Usage: 7800 KB (Peak: 7800 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 8416 KB (Peak: 8416 KB)
-Simulation CPU Usage: 15 ms

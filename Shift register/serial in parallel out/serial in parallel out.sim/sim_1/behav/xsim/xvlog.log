@@ -1,8 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/D_flip_flop/Design.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module d_ff
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Shift register/serial in parallel out/serail_in_design.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module serial_in_design
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Seriial in serial out 4 bit  shift register/serial_shift_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module serial_shift_tb
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Shift register/serial in parallel out/serial in parallel out.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module glbl

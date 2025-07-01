@@ -1,1 +1,0 @@
--wto "1df59c71eac04a3998850558f6b6cbb4" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "PSISO_design_behav" "xil_defaultlib.PSISO_design" "xil_defaultlib.glbl" -log "elaborate.log" 
