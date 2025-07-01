@@ -1,6 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/ring counter/ring_design.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module ring_design
-INFO: [VRFC 10-311] analyzing module D_ff
-INFO: [VRFC 10-311] analyzing module Dff
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/ring counter/ring_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_ring_design
