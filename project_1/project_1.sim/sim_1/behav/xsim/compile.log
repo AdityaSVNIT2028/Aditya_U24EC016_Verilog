@@ -1,5 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/design.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module syn_3_cou
-INFO: [VRFC 10-311] analyzing module T_ff
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/sync_3_counter/tb_syn_count.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module tb_syn_count
