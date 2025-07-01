@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/master slave  ff/destgn.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module mas_sl
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/master slave  ff/master slave  ff.srcs/sim_1/new/tb_mas_slave.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module destgn_tb
