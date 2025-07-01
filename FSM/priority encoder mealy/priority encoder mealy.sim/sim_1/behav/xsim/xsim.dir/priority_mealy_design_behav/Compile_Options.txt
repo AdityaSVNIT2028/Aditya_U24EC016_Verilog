@@ -1,1 +1,0 @@
--wto "e1488de51a634546b5572d895a6dbe5e" --incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "unisims_ver" -L "unimacro_ver" -L "secureip" --snapshot "priority_mealy_design_behav" "xil_defaultlib.priority_mealy_design" "xil_defaultlib.glbl" -log "elaborate.log" 
