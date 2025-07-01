@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Shift register/barallel shifter/barrel_shift_right_32.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module barrel_shift_right_32
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Shift register/barallel shifter/mux_2X1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_2X1
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Shift register/barallel shifter/barallel_shift_right_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module barallel_shift_right_tb

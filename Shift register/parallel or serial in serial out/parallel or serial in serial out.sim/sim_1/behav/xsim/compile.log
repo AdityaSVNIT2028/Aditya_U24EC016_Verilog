@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/D_flip_flop/Design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module d_ff
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Shift register/parallel or serial in serial out/PSISO_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PSISO_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Shift register/parallel or serial in serial out/P_SISO_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module P_SISO_tb

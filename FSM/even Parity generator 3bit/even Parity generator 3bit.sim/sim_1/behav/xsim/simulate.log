@@ -1,0 +1,20 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Time	Clk	Rst	X	P
+0ns	0	1	0	1
+5ns	1	1	0	1
+10ns	0	0	0	1
+15ns	1	0	0	1
+20ns	0	0	0	1
+25ns	1	0	0	1
+30ns	0	0	1	0
+35ns	1	0	1	0
+40ns	0	0	1	1
+45ns	1	0	1	1
+50ns	0	0	0	1
+55ns	1	0	0	1
+60ns	0	0	1	0
+65ns	1	0	1	0
+70ns	0	0	1	1
+75ns	1	0	1	1
+$finish called at time : 80 ns : File "F:/Sillycon/Code/RTL/FSM/even Parity generator 3bit/parity_tb.v" Line 45

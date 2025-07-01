@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/16 X 16 register file/register_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/16 X 16 register file/register_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module register_tb
