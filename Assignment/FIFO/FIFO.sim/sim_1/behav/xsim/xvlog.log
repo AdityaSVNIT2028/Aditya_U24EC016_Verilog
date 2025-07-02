@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/FIFO/FIFO_design.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_design
+INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/FIFO/FIFO_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module FIFO_tb
