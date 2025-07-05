@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jul  4 11:40:09 2025
+# Process ID: 527072
+# Current directory: F:/Sillycon/Code/RTL/FSM/lift controller using case statement/lift controller using case statement.sim/sim_1/synth/func/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Sillycon/Code/RTL/FSM/lift controller using case statement/lift controller using case statement.sim/sim_1/synth/func/xsim/xsim.dir/lift_tb_func_synth/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Sillycon/Code/RTL/FSM/lift controller using case statement/lift controller using case statement.sim/sim_1/synth/func/xsim/webtalk.log
+# Journal file: F:/Sillycon/Code/RTL/FSM/lift controller using case statement/lift controller using case statement.sim/sim_1/synth/func/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Sillycon/Code/RTL/FSM/lift -notrace
