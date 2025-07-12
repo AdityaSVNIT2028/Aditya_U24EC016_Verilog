@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Jul  8 00:08:05 2025
+# Process ID: 181092
+# Current directory: F:/Sillycon/Code/RTL/16 X 16 register file/16 X 16 register file.runs/synth_1
+# Command line: vivado.exe -log register_design.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source register_design.tcl
+# Log file: F:/Sillycon/Code/RTL/16 X 16 register file/16 X 16 register file.runs/synth_1/register_design.vds
+# Journal file: F:/Sillycon/Code/RTL/16 X 16 register file/16 X 16 register file.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source register_design.tcl -notrace

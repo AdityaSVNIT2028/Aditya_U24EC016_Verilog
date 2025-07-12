@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Jun 28 12:10:23 2025
+# Process ID: 158012
+# Current directory: F:/Sillycon/Code/RTL/16 X 16 register file/16 X 16 register file.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Sillycon/Code/RTL/16 X 16 register file/16 X 16 register file.sim/sim_1/behav/xsim/xsim.dir/register_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Sillycon/Code/RTL/16 X 16 register file/16 X 16 register file.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Sillycon/Code/RTL/16 X 16 register file/16 X 16 register file.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Sillycon/Code/RTL/16 -notrace
