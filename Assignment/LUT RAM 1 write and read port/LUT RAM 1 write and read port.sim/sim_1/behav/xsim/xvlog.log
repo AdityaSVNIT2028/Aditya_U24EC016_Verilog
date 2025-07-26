@@ -1,4 +1,0 @@
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Memory/LUT RAM 1 write and read port/lut_ram_32.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module lut_ram_32
-INFO: [VRFC 10-2263] Analyzing Verilog file "F:/Sillycon/Code/RTL/Memory/LUT RAM 1 write and read port/lut_ram_tb.v" into library xil_defaultlib
-INFO: [VRFC 10-311] analyzing module lut_ram_tb
