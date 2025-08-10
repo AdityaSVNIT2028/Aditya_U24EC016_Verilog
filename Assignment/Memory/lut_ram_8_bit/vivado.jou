@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Aug 10 09:07:00 2025
+# Process ID: 462288
+# Current directory: D:/Aditya_U24EC016_Verilog/Assignment/Memory/lut_ram_8_bit
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent463696 D:\Aditya_U24EC016_Verilog\Assignment\Memory\lut_ram_8_bit\lut_ram_8_bit.xpr
+# Log file: D:/Aditya_U24EC016_Verilog/Assignment/Memory/lut_ram_8_bit/vivado.log
+# Journal file: D:/Aditya_U24EC016_Verilog/Assignment/Memory/lut_ram_8_bit\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Aditya_U24EC016_Verilog/Assignment/Memory/lut_ram_8_bit/lut_ram_8_bit.xpr
+update_compile_order -fileset sources_1

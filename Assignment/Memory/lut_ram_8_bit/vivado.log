@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Aug 10 09:07:00 2025
+# Process ID: 462288
+# Current directory: D:/Aditya_U24EC016_Verilog/Assignment/Memory/lut_ram_8_bit
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent463696 D:\Aditya_U24EC016_Verilog\Assignment\Memory\lut_ram_8_bit\lut_ram_8_bit.xpr
+# Log file: D:/Aditya_U24EC016_Verilog/Assignment/Memory/lut_ram_8_bit/vivado.log
+# Journal file: D:/Aditya_U24EC016_Verilog/Assignment/Memory/lut_ram_8_bit\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project D:/Aditya_U24EC016_Verilog/Assignment/Memory/lut_ram_8_bit/lut_ram_8_bit.xpr
+INFO: [Project 1-313] Project file moved from 'F:/Sillycon/Code/RTL/Memory/lut_ram_8_bit' since last save.
+CRITICAL WARNING: [Project 1-311] Could not find the file 'D:/Aditya_U24EC016_Verilog/Assignment/Memory/lut_ram_5_bit/lut_ram_8.v', nor could it be found using path 'F:/Sillycon/Code/RTL/Memory/lut_ram_5_bit/lut_ram_8.v'.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'F:/Applications/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:14 ; elapsed = 00:00:06 . Memory (MB): peak = 678.797 ; gain = 47.695
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Aug 10 09:08:08 2025...
