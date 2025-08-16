@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Aug  4 21:49:30 2025
+# Process ID: 878856
+# Current directory: F:/Sillycon/Code/RTL/AXI-4 stream/project_1/project_1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/Sillycon/Code/RTL/AXI-4 stream/project_1/project_1.sim/sim_1/behav/xsim/xsim.dir/master_tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/Sillycon/Code/RTL/AXI-4 stream/project_1/project_1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/Sillycon/Code/RTL/AXI-4 stream/project_1/project_1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/Sillycon/Code/RTL/AXI-4 -notrace

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GenRun Id="impl_1" LaunchPart="xc7z020clg484-1" LaunchTime="1754324438">
+  <File Type="ROUTE-PWR" Name="AXI_simple_power_routed.rpt"/>
+  <File Type="PA-TCL" Name="AXI_simple.tcl"/>
+  <File Type="BITSTR-BMM" Name="AXI_simple_bd.bmm"/>
+  <File Type="ROUTE-PWR-SUM" Name="AXI_simple_power_summary_routed.pb"/>
+  <File Type="REPORTS-TCL" Name="AXI_simple_reports.tcl"/>
+  <File Type="OPT-DCP" Name="AXI_simple_opt.dcp"/>
+  <File Type="OPT-DRC" Name="AXI_simple_drc_opted.rpt"/>
+  <File Type="OPT-HWDEF" Name="AXI_simple.hwdef"/>
+  <File Type="PWROPT-DCP" Name="AXI_simple_pwropt.dcp"/>
+  <File Type="PLACE-DCP" Name="AXI_simple_placed.dcp"/>
+  <File Type="PLACE-IO" Name="AXI_simple_io_placed.rpt"/>
+  <File Type="PLACE-UTIL" Name="AXI_simple_utilization_placed.rpt"/>
+  <File Type="PLACE-UTIL-PB" Name="AXI_simple_utilization_placed.pb"/>
+  <File Type="PLACE-CTRL" Name="AXI_simple_control_sets_placed.rpt"/>
+  <File Type="PLACE-PRE-SIMILARITY" Name="AXI_simple_incremental_reuse_pre_placed.rpt"/>
+  <File Type="BG-BGN" Name="AXI_simple.bgn"/>
+  <File Type="POSTPLACE-PWROPT-DCP" Name="AXI_simple_postplace_pwropt.dcp"/>
+  <File Type="BG-BIN" Name="AXI_simple.bin"/>
+  <File Type="PHYSOPT-DCP" Name="AXI_simple_physopt.dcp"/>
+  <File Type="BITSTR-MSK" Name="AXI_simple.msk"/>
+  <File Type="ROUTE-ERROR-DCP" Name="AXI_simple_routed_error.dcp"/>
+  <File Type="ROUTE-DCP" Name="AXI_simple_routed.dcp"/>
+  <File Type="ROUTE-BLACKBOX-DCP" Name="AXI_simple_routed_bb.dcp"/>
+  <File Type="ROUTE-DRC" Name="AXI_simple_drc_routed.rpt"/>
+  <File Type="ROUTE-DRC-PB" Name="AXI_simple_drc_routed.pb"/>
+  <File Type="ROUTE-DRC-RPX" Name="AXI_simple_drc_routed.rpx"/>
+  <File Type="BITSTR-LTX" Name="AXI_simple.ltx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC" Name="AXI_simple_methodology_drc_routed.rpt"/>
+  <File Type="BITSTR-MMI" Name="AXI_simple.mmi"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-RPX" Name="AXI_simple_methodology_drc_routed.rpx"/>
+  <File Type="ROUTE-METHODOLOGY-DRC-PB" Name="AXI_simple_methodology_drc_routed.pb"/>
+  <File Type="BITSTR-SYSDEF" Name="AXI_simple.sysdef"/>
+  <File Type="ROUTE-PWR-RPX" Name="AXI_simple_power_routed.rpx"/>
+  <File Type="ROUTE-STATUS" Name="AXI_simple_route_status.rpt"/>
+  <File Type="ROUTE-STATUS-PB" Name="AXI_simple_route_status.pb"/>
+  <File Type="ROUTE-TIMINGSUMMARY" Name="AXI_simple_timing_summary_routed.rpt"/>
+  <File Type="ROUTE-TIMING-PB" Name="AXI_simple_timing_summary_routed.pb"/>
+  <File Type="ROUTE-TIMING-RPX" Name="AXI_simple_timing_summary_routed.rpx"/>
+  <File Type="ROUTE-CLK" Name="AXI_simple_clock_utilization_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW" Name="AXI_simple_bus_skew_routed.rpt"/>
+  <File Type="ROUTE-BUS-SKEW-PB" Name="AXI_simple_bus_skew_routed.pb"/>
+  <File Type="ROUTE-BUS-SKEW-RPX" Name="AXI_simple_bus_skew_routed.rpx"/>
+  <File Type="POSTROUTE-PHYSOPT-DCP" Name="AXI_simple_postroute_physopt.dcp"/>
+  <File Type="POSTROUTE-PHYSOPT-BLACKBOX-DCP" Name="AXI_simple_postroute_physopt_bb.dcp"/>
+  <File Type="BG-BIT" Name="AXI_simple.bit"/>
+  <File Type="BITSTR-RBT" Name="AXI_simple.rbt"/>
+  <File Type="BITSTR-NKY" Name="AXI_simple.nky"/>
+  <File Type="BG-DRC" Name="AXI_simple.drc"/>
+  <File Type="RDI-RDI" Name="AXI_simple.vdi"/>
+  <File Type="WBT-USG" Name="usage_statistics_webtalk.html"/>
+  <FileSet Name="sources" Type="DesignSrcs" RelSrcDir="$PSRCDIR/sources_1">
+    <Filter Type="Srcs"/>
+    <File Path="$PPRDIR/fifo_64_bit_design.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <File Path="$PPRDIR/AXI_master.v">
+      <FileInfo>
+        <Attr Name="UsedIn" Val="synthesis"/>
+        <Attr Name="UsedIn" Val="implementation"/>
+        <Attr Name="UsedIn" Val="simulation"/>
+      </FileInfo>
+    </File>
+    <Config>
+      <Option Name="DesignMode" Val="RTL"/>
+      <Option Name="TopModule" Val="AXI_simple"/>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="constrs_in" Type="Constrs" RelSrcDir="$PSRCDIR/constrs_1">
+    <Filter Type="Constrs"/>
+    <Config>
+      <Option Name="ConstrsType" Val="XDC"/>
+    </Config>
+  </FileSet>
+  <FileSet Name="utils" Type="Utils" RelSrcDir="$PSRCDIR/utils_1">
+    <Filter Type="Utils"/>
+    <Config>
+      <Option Name="TopAutoSet" Val="TRUE"/>
+    </Config>
+  </FileSet>
+  <Strategy Version="1" Minor="2">
+    <StratHandle Name="Vivado Implementation Defaults" Flow="Vivado Implementation 2019"/>
+    <Step Id="init_design"/>
+    <Step Id="opt_design"/>
+    <Step Id="power_opt_design"/>
+    <Step Id="place_design"/>
+    <Step Id="post_place_power_opt_design"/>
+    <Step Id="phys_opt_design"/>
+    <Step Id="route_design"/>
+    <Step Id="post_route_phys_opt_design"/>
+    <Step Id="write_bitstream"/>
+  </Strategy>
+</GenRun>
