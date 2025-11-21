@@ -109,7 +109,7 @@ Create a folder or a grouped set of files:
 - EDA Playfround
 
 ## Contribution & contact
-Author: Aditya (AdityaSVNIT2028)
+Author: Aditya
 If you want to add or improve an assignment, follow the “How to add a new assignment” template and open a PR against the repository. Include clear instructions and expected outputs.
 
 
