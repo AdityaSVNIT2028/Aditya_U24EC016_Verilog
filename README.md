@@ -105,10 +105,8 @@ Create a folder or a grouped set of files:
 - If no waveform is generated, add or check `$dumpfile` / `$dumpvars` calls in the testbench.
 
 ## Tools & references
-- Icarus Verilog (iverilog, vvp)
-- GTKWave (gtkwave)
-- ModelSim / QuestaSim
-- Xilinx Vivado / Intel Quartus (for synthesis and device implementation)
+- Xilinx Vivado
+- EDA Playfround
 
 ## Contribution & contact
 Author: Aditya (AdityaSVNIT2028)
