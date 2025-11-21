@@ -1,4 +1,4 @@
-# Verilog Assignments (Assignment/)
+# Verilog Assignments 
 
 This folder contains the Verilog assignment files and supporting testbenches. Each assignment is structured to make simulations and basic verification straightforward. This README explains the layout, how to run simulations, coding/testing conventions, and how to add new assignments.
 
